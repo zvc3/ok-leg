@@ -1,0 +1,211 @@
+,House District,County,agency,Member,Party,Phone,Room,LA Name
+0,1,Le Flore,KI BOIS,"Tadlock, Johnny ",R,(405) 557-7363,409,Leslie Smith-Haddad
+1,1,McCurtain,Little Dixie,"Tadlock, Johnny ",R,(405) 557-7363,409,Leslie Smith-Haddad
+2,2,Sequoyah,KI BOIS,"Olsen, Jim ",R,(405) 557-7315,329B,Martha Perry*
+3,3,Le Flore,KI BOIS,"Kiger, Lundy ",R,(405) 557-7413,405,Sawyer Campbell*
+4,4,Cherokee,NEOCAA,"Meredith, Matt ",D,(405) 557-7408,541,Connie Riley
+5,5,Delaware,NEOCAA,"West, Josh ",R,(405) 557-7415,242A,Tanner Davis
+6,5,Mayes,CARD,"West, Josh ",R,(405) 557-7415,242A,Tanner Davis
+7,6,Craig ,NEOCAA,"Cornwell, Rusty ",R,(405) 557-7319,334,Melanie Morriss*
+8,6,Mayes,CARD,"Cornwell, Rusty ",R,(405) 557-7319,334,Melanie Morriss*
+9,6,Rogers,CARD,"Cornwell, Rusty ",R,(405) 557-7319,334,Melanie Morriss*
+10,7,Delaware,NEOCAA,"Loring, Ben ",D,(405) 557-7399,503,Louise Aldridge
+11,7,Ottawa,NEOCAA,"Loring, Ben ",D,(405) 557-7399,503,Louise Aldridge
+12,8,Mayes,CARD,"Gann, Tom ",R,(405) 557-7364,434,Carla Ray
+13,8,Rogers,CARD,"Gann, Tom ",R,(405) 557-7364,434,Carla Ray
+14,8,Wagoner,CARD,"Gann, Tom ",R,(405) 557-7364,434,Carla Ray
+15,9,Rogers,CARD,"Lepak, Mark ",R,(405) 557-7380,441,Charlotte Maughan
+16,10,Nowata,CARD,"Strom, Judd ",R,(405) 557-7402,435,Natasha Holliday*
+17,10,Osage,UCAP,"Strom, Judd ",R,(405) 557-7402,435,Natasha Holliday*
+18,10,Washington,CARD,"Strom, Judd ",R,(405) 557-7402,435,Natasha Holliday*
+19,11,Rogers,CARD,"Fincher, Derrel ",R,(405) 557-7358,329,Sawyer Campbell*
+20,11,Tulsa,CAP Tulsa,"Fincher, Derrel ",R,(405) 557-7358,329,Sawyer Campbell*
+21,11,Washington,CARD,"Fincher, Derrel ",R,(405) 557-7358,329,Sawyer Campbell*
+22,12,Wagoner,CARD,"McDugle, Kevin ",R,(405) 557-7388,242B,Tanner Davis
+23,13,McIntosh,DFCAF,"Frix, Avery ",R,(405) 557-7302,438,Vicki Adams
+24,13,Muskogee,KI BOIS,"Frix, Avery ",R,(405) 557-7302,438,Vicki Adams
+25,14,Cherokee,NEOCAA,"Sneed, Chris ",R,(405) 557-7310,300C,Carla Ray*
+26,14,Muskogee,KI BOIS,"Sneed, Chris ",R,(405) 557-7310,300C,Carla Ray*
+27,15,Haskell,KI BOIS,"Randleman, Randy ",R,(405) 557-7375,302,Jordan Johnston*
+28,15,Le Flore,KI BOIS,"Randleman, Randy ",R,(405) 557-7375,302,Jordan Johnston*
+29,15,McIntosh,DFCAF,"Randleman, Randy ",R,(405) 557-7375,302,Jordan Johnston*
+30,15,Muskogee,KI BOIS,"Randleman, Randy ",R,(405) 557-7375,302,Jordan Johnston*
+31,15,Sequoyah,KI BOIS,"Randleman, Randy ",R,(405) 557-7375,302,Jordan Johnston*
+32,16,Muskogee,KI BOIS,"Fetgatter, Scott ",R,(405) 557-7373,248A,Debbie Grogis
+33,16,Okmulgee,DFCAF,"Fetgatter, Scott ",R,(405) 557-7373,248A,Debbie Grogis
+34,16,Tulsa,CAP Tulsa,"Fetgatter, Scott ",R,(405) 557-7373,248A,Debbie Grogis
+35,16,Wagoner,CARD,"Fetgatter, Scott ",R,(405) 557-7373,248A,Debbie Grogis
+36,17,Latimer,KI BOIS,"Grego, Jim ",R,(405) 557-7381,501,Ashley Stuart*
+37,17,Le Flore,KI BOIS,"Grego, Jim ",R,(405) 557-7381,501,Ashley Stuart*
+38,17,Pittsburg,KI BOIS,"Grego, Jim ",R,(405) 557-7381,501,Ashley Stuart*
+39,18,Coal,Big 5,"Smith, David ",R,(405) 557-7376,250A,Lacy Skrapka*
+40,18,Hughes,DFCAF,"Smith, David ",R,(405) 557-7376,250A,Lacy Skrapka*
+41,18,McIntosh,DFCAF,"Smith, David ",R,(405) 557-7376,250A,Lacy Skrapka*
+42,18,Pittsburg,KI BOIS,"Smith, David ",R,(405) 557-7376,250A,Lacy Skrapka*
+43,19,Atoka,INCA,"Humphrey, Justin ",R,(405) 557-7382,301B,LaToya Alexander
+44,19,Bryan,Big 5,"Humphrey, Justin ",R,(405) 557-7382,301B,LaToya Alexander
+45,19,Choctaw,Little Dixie,"Humphrey, Justin ",R,(405) 557-7382,301B,LaToya Alexander
+46,19,Pushmataha,Little Dixie,"Humphrey, Justin ",R,(405) 557-7382,301B,LaToya Alexander
+47,20,Cleveland,COCAA,"Conley, Sherrie ",R,(405) 557-7308,303B,Latoya Alexander*
+48,20,Garvin,Delta,"Conley, Sherrie ",R,(405) 557-7308,303B,Latoya Alexander*
+49,20,McClain,Delta,"Conley, Sherrie ",R,(405) 557-7308,303B,Latoya Alexander*
+50,20,Pottawatomie,COCAA,"Conley, Sherrie ",R,(405) 557-7308,303B,Latoya Alexander*
+51,21,Bryan,Big 5,"Roberts, Dustin ",R,(405) 557-7366,440,Elizabeth Smith
+52,22,Atoka,INCA,"McCall, Charles ",R,(405) 557-7412,401,Tonya Pogue
+53,22,Garvin,Delta,"McCall, Charles ",R,(405) 557-7412,401,Tonya Pogue
+54,22,Johnston,INCA,"McCall, Charles ",R,(405) 557-7412,401,Tonya Pogue
+55,22,Murray,INCA,"McCall, Charles ",R,(405) 557-7412,401,Tonya Pogue
+56,23,Rogers,CARD,"O'Donnell, Terry ",R,(405) 557-7379,433,Kathy Hubbart
+57,23,Tulsa,CAP Tulsa,"O'Donnell, Terry ",R,(405) 557-7379,433,Kathy Hubbart
+58,23,Wagoner,CARD,"O'Donnell, Terry ",R,(405) 557-7379,433,Kathy Hubbart
+59,24,Hughes,DFCAF,"Phillips, Logan ",R,(405) 557-7306,335,Tanner Davis*
+60,24,Okfuskee,DFCAF,"Phillips, Logan ",R,(405) 557-7306,335,Tanner Davis*
+61,24,Okmulgee,DFCAF,"Phillips, Logan ",R,(405) 557-7306,335,Tanner Davis*
+62,25,Pontotoc,Big 5,"Johns, Ronny ",R,(405) 557-7336,329A,Kaye Beach*
+63,26,Pottawatomie,COCAA,"Kerbs, Dell ",R,(405) 557-7345,408,Joyce Butler
+64,27,Cleveland,COCAA,"Sterling, Danny ",R,(405) 557-7349,328B,Joyce Butler*
+65,27,Pottawatomie,COCAA,"Sterling, Danny ",R,(405) 557-7349,328B,Joyce Butler*
+66,28,Pottawatomie,COCAA,"Taylor, Zack ",R,(405) 557-7372,435A,Martha Perry
+67,28,Seminole,COCAA,"Taylor, Zack ",R,(405) 557-7372,435A,Martha Perry
+68,29,Creek,UCAP,"Hilbert, Kyle ",R,(405) 557-7353,244B,Sonya Barker
+69,29,Tulsa,CAP Tulsa,"Hilbert, Kyle ",R,(405) 557-7353,244B,Sonya Barker
+70,30,Creek,UCAP,"Lawson, Mark ",R,(405) 557-7414,244A,Sonya Barker
+71,30,Tulsa,CAP Tulsa,"Lawson, Mark ",R,(405) 557-7414,244A,Sonya Barker
+72,31,Logan,COCAA,"Mize, Garry ",R,(405) 557-7350,300,Reed Powell*
+73,31,Oklahoma,CAAOKC,"Mize, Garry ",R,(405) 557-7350,300,Reed Powell*
+74,32,Lincoln,COCAA,"Wallace, Kevin ",R,(405) 557-7368,200B,Tammie Wright
+75,32,Logan,COCAA,"Wallace, Kevin ",R,(405) 557-7368,200B,Tammie Wright
+76,33,Logan,COCAA,"Talley, John ",R,(405) 557-7304,300B,Kathy Hubbart*
+77,33,Payne,COCAA,"Talley, John ",R,(405) 557-7304,300B,Kathy Hubbart*
+78,34,Payne,COCAA,"Ranson, Trish ",D,(405) 557-7411,506,Sarah Rivin*
+79,35,Creek,UCAP,"Burns, Ty ",R,(405) 557-7344,330,Lacy Skrapka*
+80,35,Noble ,UCAP,"Burns, Ty ",R,(405) 557-7344,330,Lacy Skrapka*
+81,35,Osage,UCAP,"Burns, Ty ",R,(405) 557-7344,330,Lacy Skrapka*
+82,35,Pawnee,UCAP,"Burns, Ty ",R,(405) 557-7344,330,Lacy Skrapka*
+83,35,Payne,COCAA,"Burns, Ty ",R,(405) 557-7344,330,Lacy Skrapka*
+84,36,Osage,UCAP,"Roberts, Sean ",R,(405) 557-7322,250,Lacy Skrapka
+85,36,Tulsa,CAP Tulsa,"Roberts, Sean ",R,(405) 557-7322,250,Lacy Skrapka
+86,37,Kay,UCAP,"Luttrell, Ken ",R,(405) 557-7355,410,Vicki Adams*
+87,37,Osage,UCAP,"Luttrell, Ken ",R,(405) 557-7355,410,Vicki Adams*
+88,38,Garfield,CDSA,"Pfeiffer, John ",R,(405) 557-7332,439,Ashley Stuart
+89,38,Grant,CDSA,"Pfeiffer, John ",R,(405) 557-7332,439,Ashley Stuart
+90,38,Kay,UCAP,"Pfeiffer, John ",R,(405) 557-7332,439,Ashley Stuart
+91,38,Logan,COCAA,"Pfeiffer, John ",R,(405) 557-7332,439,Ashley Stuart
+92,38,Noble ,UCAP,"Pfeiffer, John ",R,(405) 557-7332,439,Ashley Stuart
+93,39,Oklahoma,CAAOKC,"Martinez, Ryan ",R,(405) 557-7342,246B,Stefne Miller
+94,40,Garfield,CDSA,"Caldwell, Chad ",R,(405) 557-7317,432D,Ashley Billups
+95,41,Canadian,CAAOKC,"Crosswhite Hader, Denise ",R,(405) 557-7321,337,Marlene Burbank-Jones*
+96,41,Garfield,CDSA,"Crosswhite Hader, Denise ",R,(405) 557-7321,337,Marlene Burbank-Jones*
+97,41,Kingfisher,Opportunities,"Crosswhite Hader, Denise ",R,(405) 557-7321,337,Marlene Burbank-Jones*
+98,41,Oklahoma,CAAOKC,"Crosswhite Hader, Denise ",R,(405) 557-7321,337,Marlene Burbank-Jones*
+99,42,Garvin,Delta,"Roe, Cynthia ",R,(405) 557-7365,338,Saprina Crostwait*
+100,42,McClain,Delta,"Roe, Cynthia ",R,(405) 557-7365,338,Saprina Crostwait*
+101,43,Canadian,CAAOKC,"Steagall, Jay ",R,(405) 557-7352,301A,Melanie Morriss*
+102,44,Cleveland,COCAA,"Virgin, Emily ",D,(405) 557-7323,548,Debra Pearson-Matthews
+103,45,Cleveland,COCAA,"Bell, Merleyn ",D,(405) 557-7386,539B,Maegan Hansen*
+104,46,Cleveland,COCAA,"Rosecrants, Jacob ",D,(405) 557-7329,509,Amari Kimbro
+105,46,McClain,Delta,"Rosecrants, Jacob ",D,(405) 557-7329,509,Amari Kimbro
+106,47,Canadian,CAAOKC,"Hill, Brian ",R,(405) 557-7333,400B,Dee Lemon*
+107,47,Grady,WVCAC,"Hill, Brian ",R,(405) 557-7333,400B,Dee Lemon*
+108,48,Carter,Big 5,"Townley, Tammy ",R,(405) 557-7326,303A,Sonya Barker*
+109,48,Garvin,Delta,"Townley, Tammy ",R,(405) 557-7326,303A,Sonya Barker*
+110,48,Murray,INCA,"Townley, Tammy ",R,(405) 557-7326,303A,Sonya Barker*
+111,49,Carter,Big 5,"Hardin, Tommy ",R,(405) 557-7383,336,Saprina Crostwait
+112,49,Love,Big 5,"Hardin, Tommy ",R,(405) 557-7383,336,Saprina Crostwait
+113,49,Marshall,INCA,"Hardin, Tommy ",R,(405) 557-7383,336,Saprina Crostwait
+114,50,Jefferson,CADC,"McEntire, Marcus ",R,(405) 557-7327,204B,Jan Tupps
+115,50,Stephens,Delta,"McEntire, Marcus ",R,(405) 557-7327,204B,Jan Tupps
+116,51,Grady,WVCAC,"Boles, Brad ",R,(405) 557-7405,248B,Debbie Grogis
+117,51,McClain,Delta,"Boles, Brad ",R,(405) 557-7405,248B,Debbie Grogis
+118,51,Stephens,Delta,"Boles, Brad ",R,(405) 557-7405,248B,Debbie Grogis
+119,52,Greer,SOCAG,"Ortega, Charles ",R,(405) 557-7369,305A,Melanie Morriss
+120,52,Harmon,SOCAG,"Ortega, Charles ",R,(405) 557-7369,305A,Melanie Morriss
+121,52,Jackson,SOCAG,"Ortega, Charles ",R,(405) 557-7369,305A,Melanie Morriss
+122,52,Kiowa,CADC,"Ortega, Charles ",R,(405) 557-7369,305A,Melanie Morriss
+123,53,Cleveland,COCAA,"McBride, Mark ",R,(405) 557-7346,433B,Julie Jackson
+124,54,Cleveland,COCAA,"West, Kevin ",R,(405) 557-7343,333,Marlene Burbank-Jones
+125,54,Oklahoma,CAAOKC,"West, Kevin ",R,(405) 557-7343,333,Marlene Burbank-Jones
+126,55,Beckham,CADC,"Russ, Todd ",R,(405) 557-7312,406,Jordan Johnston
+127,55,Greer,SOCAG,"Russ, Todd ",R,(405) 557-7312,406,Jordan Johnston
+128,55,Kiowa,CADC,"Russ, Todd ",R,(405) 557-7312,406,Jordan Johnston
+129,55,Roger Mills,CADC,"Russ, Todd ",R,(405) 557-7312,406,Jordan Johnston
+130,55,Washita,CADC,"Russ, Todd ",R,(405) 557-7312,406,Jordan Johnston
+131,56,Caddo,WVCAC,"Perryman, David ",D,(405) 557-7401,540,Abigail Weigand
+132,56,Grady,WVCAC,"Perryman, David ",D,(405) 557-7401,540,Abigail Weigand
+133,56,Kiowa,CADC,"Perryman, David ",D,(405) 557-7401,540,Abigail Weigand
+134,57,Beckham,CADC,"Wright, Harold ",R,(405) 557-7325,411,Dee Lemon
+135,57,Blaine,Opportunities,"Wright, Harold ",R,(405) 557-7325,411,Dee Lemon
+136,57,Caddo,WVCAC,"Wright, Harold ",R,(405) 557-7325,411,Dee Lemon
+137,57,Canadian,CAAOKC,"Wright, Harold ",R,(405) 557-7325,411,Dee Lemon
+138,57,Custer,Opportunities,"Wright, Harold ",R,(405) 557-7325,411,Dee Lemon
+139,58,Alfalfa ,Opportunities,"Newton, Carl ",R,(405) 557-7339,332,Pat Timberlake
+140,58,Major,Opportunities,"Newton, Carl ",R,(405) 557-7339,332,Pat Timberlake
+141,58,Woods,Opportunities,"Newton, Carl ",R,(405) 557-7339,332,Pat Timberlake
+142,58,Woodward,Opportunities,"Newton, Carl ",R,(405) 557-7339,332,Pat Timberlake
+143,59,Blaine,Opportunities,"Sanders, Mike ",R,(405) 557-7407,205,Natasha Holliday
+144,59,Canadian,CAAOKC,"Sanders, Mike ",R,(405) 557-7407,205,Natasha Holliday
+145,59,Dewey,Opportunities,"Sanders, Mike ",R,(405) 557-7407,205,Natasha Holliday
+146,59,Kingfisher,Opportunities,"Sanders, Mike ",R,(405) 557-7407,205,Natasha Holliday
+147,59,Woodward,Opportunities,"Sanders, Mike ",R,(405) 557-7407,205,Natasha Holliday
+148,60,Caddo,WVCAC,"Baker, Rhonda ",R,(405) 557-7311,202A,Julie Jackson
+149,60,Canadian,CAAOKC,"Baker, Rhonda ",R,(405) 557-7311,202A,Julie Jackson
+150,61,Beaver,Opportunities,"Patzkowsky, Kenton ",R,(405) 557-7384,500A,Elizabeth Smith*
+151,61,Cimarron,Opportunities,"Patzkowsky, Kenton ",R,(405) 557-7384,500A,Elizabeth Smith*
+152,61,Ellis,Opportunities,"Patzkowsky, Kenton ",R,(405) 557-7384,500A,Elizabeth Smith*
+153,61,Harper,Opportunities,"Patzkowsky, Kenton ",R,(405) 557-7384,500A,Elizabeth Smith*
+154,61,Texas,Opportunities,"Patzkowsky, Kenton ",R,(405) 557-7384,500A,Elizabeth Smith*
+155,61,Woodward,Opportunities,"Patzkowsky, Kenton ",R,(405) 557-7384,500A,Elizabeth Smith*
+156,62,Comanche,GPIF,"Pae, Daniel ",R,(405) 557-7374,500,Pat Timberlake*
+157,63,Comanche,GPIF,"Caldwell, Trey ",R,(405) 557-7307,304,Leslie Smith-Haddad*
+158,63,Tillman,CADC,"Caldwell, Trey ",R,(405) 557-7307,304,Leslie Smith-Haddad*
+159,64,Comanche,GPIF,"Worthen, Rande ",R,(405) 557-7398,302A,Glenda Mollman*
+160,65,Caddo,WVCAC,"Hasenbeck, Toni ",R,(405) 557-7305,256,Julie Jackson
+161,65,Comanche,GPIF,"Hasenbeck, Toni ",R,(405) 557-7305,256,Julie Jackson
+162,65,Cotton,CADC,"Hasenbeck, Toni ",R,(405) 557-7305,256,Julie Jackson
+163,65,Grady,WVCAC,"Hasenbeck, Toni ",R,(405) 557-7305,256,Julie Jackson
+164,65,Stephens,Delta,"Hasenbeck, Toni ",R,(405) 557-7305,256,Julie Jackson
+165,66,Osage,UCAP,"Nollan, Jadine ",R,(405) 557-7390,407,Sandy Cunningham
+166,66,Tulsa,CAP Tulsa,"Nollan, Jadine ",R,(405) 557-7390,407,Sandy Cunningham
+167,67,Tulsa,CAP Tulsa,"Boatman, Jeff ",R,(405) 557-7341,303,Sandy Cunningham*
+168,68,Tulsa,CAP Tulsa,"Sims, Lonnie ",R,(405) 557-7340,436,Jan Tupps*
+169,69,Tulsa,CAP Tulsa,"Dills, Sheila ",R,(405) 557-7331,500,Jan Tupps
+170,70,Tulsa,CAP Tulsa,"Bush, Carol ",R,(405) 557-7359,204A,Jan Tupps
+171,71,Tulsa,CAP Tulsa,"Brewer, Denise ",D,(405) 557-7361,510B,Debra Pearson-Matthews*
+172,72,Tulsa,CAP Tulsa,"Nichols, Monroe ",D,(405) 557-7391,505,Connie Riley*
+173,73,Osage,UCAP,"Goodwin, Regina ",D,(405) 557-7406,508,Amari Kimbro
+174,73,Tulsa,CAP Tulsa,"Goodwin, Regina ",D,(405) 557-7406,508,Amari Kimbro
+175,74,Rogers,CARD,"Vancuren, Mark ",R,(405) 557-7377,328A,Natasha Holliday*
+176,74,Tulsa,CAP Tulsa,"Vancuren, Mark ",R,(405) 557-7377,328A,Natasha Holliday*
+177,75,Tulsa,CAP Tulsa,"Marti, T.J. ",R,(405) 557-7356,301,Zach Swift*
+178,76,Tulsa,CAP Tulsa,"Ford, Ross ",R,(405) 557-7347,437,Sawyer Campbell*
+179,77,Rogers,CARD,"Waldron, John ",D,(405) 557-7410,510A,Abigail Weigand*
+180,77,Tulsa,CAP Tulsa,"Waldron, John ",D,(405) 557-7410,510A,Abigail Weigand*
+181,78,Tulsa,CAP Tulsa,"Blancett, Meloyde ",D,(405) 557-7334,543,Meagan Hansen
+182,79,Tulsa,CAP Tulsa,"Provenzano, Melissa ",D,(405) 557-7330,510A,Louise Aldridge*
+183,80,Tulsa,CAP Tulsa,"May, Stan ",R,(405) 557-7338,331,Zack Swift*
+184,80,Wagoner,CARD,"May, Stan ",R,(405) 557-7338,331,Zack Swift*
+185,81,Oklahoma,CAAOKC,"Osburn, Mike ",R,(405) 557-7360,246A,Stefne Miller
+186,82,Oklahoma,CAAOKC,"Miller, Nicole ",R,(405) 557-7357,300A,Charlotte Maughan*
+187,83,Oklahoma,CAAOKC,"Branham, Chelsey ",D,(405) 557-7409,539B,Kaylee Rains-Saucedo*
+188,84,Oklahoma,CAAOKC,"West, Tammy ",R,(405) 557-7348,202B,Julie Jackson
+189,85,Oklahoma,CAAOKC,"Munson, Cyndi ",D,(405) 557-7392,546,Sarah Rivin
+190,86,Adair,NEOCAA,"Hardin, David ",R,(405) 557-7394,502,Martha Perry*
+191,86,Cherokee,NEOCAA,"Hardin, David ",R,(405) 557-7394,502,Martha Perry*
+192,86,Delaware,NEOCAA,"Hardin, David ",R,(405) 557-7394,502,Martha Perry*
+193,87,Oklahoma,CAAOKC,"Walke, Collin ",D,(405) 557-7335,504,Louise Aldridge*
+194,88,Oklahoma,CAAOKC,"Dunnington, Jason ",D,(405) 557-7396,544,Meagan Hansen
+195,89,Oklahoma,CAAOKC,"Stone, Shane ",D,(405) 557-7397,545,Sarah Rivin
+196,90,Cleveland,COCAA,"Echols, Jon ",R,(405) 557-7354,442,Kaye Beach
+197,90,Oklahoma,CAAOKC,"Echols, Jon ",R,(405) 557-7354,442,Kaye Beach
+198,91,Cleveland,COCAA,"Kannady, Chris ",R,(405) 557-7337,240,Zach Swift
+199,92,Oklahoma,CAAOKC,"Bennett, Forrest ",D,(405) 557-7404,542,Connie Riley
+200,93,Oklahoma,CAAOKC,"Dollens, Mickey ",D,(405) 557-7371,540A,Abigail Weigand
+201,94,Oklahoma,CAAOKC,"Fugate, Andy ",D,(405) 557-7370,510B,Debra Pearson-Matthews*
+202,95,Oklahoma,CAAOKC,"Albright, Kelly ",D,(405) 557-7314,539,Kaylee Rains-Saucedo*
+203,96,Oklahoma,CAAOKC,"Moore, Lewis ",R,(405) 557-7400,328,Reed Powell
+204,97,Oklahoma,CAAOKC,"Lowe, Jason ",D,(405) 557-7367,507,Amari Kimbro*
+205,98,Tulsa,CAP Tulsa,"Davis, Dean ",R,(405) 557-7362,301,Saprina Croshwait*
+206,98,Wagoner,CARD,"Davis, Dean ",R,(405) 557-7362,301,Saprina Croshwait*
+207,99,Oklahoma,CAAOKC,"Pittman, Ajay ",D,(405) 557-7393,539,Amari Kimbro*
+208,100,Oklahoma,CAAOKC,"Stark, Marilyn ",R,(405) 557-7403,338,Carla Ray*
+209,101,Oklahoma,CAAOKC,"Manger, Robert ",R,(405) 557-7395,302B,Dee Lemon*
