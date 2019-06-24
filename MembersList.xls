@@ -1,0 +1,633 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+	<div id="ctl00_ContentPlaceHolder1_RadGrid1_GridData" class="rgDataDiv" style="overflow-x:auto;overflow-y:auto;width:100%;height:350px;">
+
+<table border="0" id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<thead>
+		<tr>
+			<th scope="col" title="Member's Name." class=" rgHeader">Member</th><th scope="col" title="Member's District." class=" rgHeader" style="text-align:center;">District</th><th scope="col" title="Member's Party." class=" rgHeader" style="text-align:center;">Party</th><th scope="col" title="Member's Phone." class=" rgHeader">Phone</th><th scope="col" title="Member's Capitol Room Number." class=" rgHeader">Room</th><th scope="col" title="Member's Legislative Assistant's Name." class=" rgHeader">LA Name</th>
+		</tr><tr>
+			<td style="white-space:nowrap;"></td><td>&nbsp;</td><td style="white-space:nowrap;"></td><td>&nbsp;</td><td>&nbsp;</td><td style="white-space:nowrap;"></td>
+		</tr>
+	</thead><tbody>
+	<tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__0">
+		<td>
+                            <a title="Click to view Member Albright, Kelly's information page in a new window." href='District.aspx?District=95' target="_blank">
+                            Albright, Kelly
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">95</td><td align="center">D</td><td>(405) 557-7314</td><td>539</td><td>Kaylee Rains-Saucedo*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__1">
+		<td>
+                            <a title="Click to view Member Baker, Rhonda's information page in a new window." href='District.aspx?District=60' target="_blank">
+                            Baker, Rhonda
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">60</td><td align="center">R</td><td>(405) 557-7311</td><td>202A</td><td>Julie Jackson</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__2">
+		<td>
+                            <a title="Click to view Member Bell, Merleyn's information page in a new window." href='District.aspx?District=45' target="_blank">
+                            Bell, Merleyn
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">45</td><td align="center">D</td><td>(405) 557-7386</td><td>539B</td><td>Maegan Hansen*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__3">
+		<td>
+                            <a title="Click to view Member Bennett, Forrest's information page in a new window." href='District.aspx?District=92' target="_blank">
+                            Bennett, Forrest
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">92</td><td align="center">D</td><td>(405) 557-7404</td><td>542</td><td>Connie Riley</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__4">
+		<td>
+                            <a title="Click to view Member Blancett, Meloyde's information page in a new window." href='District.aspx?District=78' target="_blank">
+                            Blancett, Meloyde
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">78</td><td align="center">D</td><td>(405) 557-7334</td><td>543</td><td>Meagan Hansen</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__5">
+		<td>
+                            <a title="Click to view Member Boatman, Jeff's information page in a new window." href='District.aspx?District=67' target="_blank">
+                            Boatman, Jeff
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">67</td><td align="center">R</td><td>(405) 557-7341</td><td>303</td><td>Sandy Cunningham*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__6">
+		<td>
+                            <a title="Click to view Member Boles, Brad's information page in a new window." href='District.aspx?District=51' target="_blank">
+                            Boles, Brad
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">51</td><td align="center">R</td><td>(405) 557-7405</td><td>248B</td><td>Debbie Grogis</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__7">
+		<td>
+                            <a title="Click to view Member Branham, Chelsey's information page in a new window." href='District.aspx?District=83' target="_blank">
+                            Branham, Chelsey
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">83</td><td align="center">D</td><td>(405) 557-7409</td><td>539B</td><td>Kaylee Rains-Saucedo*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__8">
+		<td>
+                            <a title="Click to view Member Brewer, Denise's information page in a new window." href='District.aspx?District=71' target="_blank">
+                            Brewer, Denise
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">71</td><td align="center">D</td><td>(405) 557-7361</td><td>510B</td><td>Debra Pearson-Matthews*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__9">
+		<td>
+                            <a title="Click to view Member Burns, Ty's information page in a new window." href='District.aspx?District=35' target="_blank">
+                            Burns, Ty
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">35</td><td align="center">R</td><td>(405) 557-7344</td><td>330</td><td>Lacy Skrapka*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__10">
+		<td>
+                            <a title="Click to view Member Bush, Carol's information page in a new window." href='District.aspx?District=70' target="_blank">
+                            Bush, Carol
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">70</td><td align="center">R</td><td>(405) 557-7359</td><td>204A</td><td>Jan Tupps</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__11">
+		<td>
+                            <a title="Click to view Member Caldwell, Chad's information page in a new window." href='District.aspx?District=40' target="_blank">
+                            Caldwell, Chad
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">40</td><td align="center">R</td><td>(405) 557-7317</td><td>432D</td><td>Ashley Billups</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__12">
+		<td>
+                            <a title="Click to view Member Caldwell, Trey's information page in a new window." href='District.aspx?District=63' target="_blank">
+                            Caldwell, Trey
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">63</td><td align="center">R</td><td>(405) 557-7307</td><td>304</td><td>Leslie Smith-Haddad*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__13">
+		<td>
+                            <a title="Click to view Member Conley, Sherrie's information page in a new window." href='District.aspx?District=20' target="_blank">
+                            Conley, Sherrie
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">20</td><td align="center">R</td><td>(405) 557-7308</td><td>303B</td><td>Latoya Alexander*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__14">
+		<td>
+                            <a title="Click to view Member Cornwell, Rusty's information page in a new window." href='District.aspx?District=6' target="_blank">
+                            Cornwell, Rusty
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">6</td><td align="center">R</td><td>(405) 557-7319</td><td>334</td><td>Melanie Morriss*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__15">
+		<td>
+                            <a title="Click to view Member Crosswhite Hader, Denise's information page in a new window." href='District.aspx?District=41' target="_blank">
+                            Crosswhite Hader, Denise
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">41</td><td align="center">R</td><td>(405) 557-7321</td><td>337</td><td>Marlene Burbank-Jones*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__16">
+		<td>
+                            <a title="Click to view Member Davis, Dean's information page in a new window." href='District.aspx?District=98' target="_blank">
+                            Davis, Dean
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">98</td><td align="center">R</td><td>(405) 557-7362</td><td>301</td><td>Saprina Croshwait*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__17">
+		<td>
+                            <a title="Click to view Member Dills, Sheila's information page in a new window." href='District.aspx?District=69' target="_blank">
+                            Dills, Sheila
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">69</td><td align="center">R</td><td>(405) 557-7331</td><td>500</td><td>Jan Tupps</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__18">
+		<td>
+                            <a title="Click to view Member Dollens, Mickey's information page in a new window." href='District.aspx?District=93' target="_blank">
+                            Dollens, Mickey
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">93</td><td align="center">D</td><td>(405) 557-7371</td><td>540A</td><td>Abigail Weigand</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__19">
+		<td>
+                            <a title="Click to view Member Dunnington, Jason's information page in a new window." href='District.aspx?District=88' target="_blank">
+                            Dunnington, Jason
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">88</td><td align="center">D</td><td>(405) 557-7396</td><td>544</td><td>Meagan Hansen</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__20">
+		<td>
+                            <a title="Click to view Member Echols, Jon's information page in a new window." href='District.aspx?District=90' target="_blank">
+                            Echols, Jon
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">90</td><td align="center">R</td><td>(405) 557-7354</td><td>442</td><td>Kaye Beach</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__21">
+		<td>
+                            <a title="Click to view Member Fetgatter, Scott's information page in a new window." href='District.aspx?District=16' target="_blank">
+                            Fetgatter, Scott
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">16</td><td align="center">R</td><td>(405) 557-7373</td><td>248A</td><td>Debbie Grogis</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__22">
+		<td>
+                            <a title="Click to view Member Fincher, Derrel's information page in a new window." href='District.aspx?District=11' target="_blank">
+                            Fincher, Derrel
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">11</td><td align="center">R</td><td>(405) 557-7358</td><td>329</td><td>Sawyer Campbell*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__23">
+		<td>
+                            <a title="Click to view Member Ford, Ross's information page in a new window." href='District.aspx?District=76' target="_blank">
+                            Ford, Ross
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">76</td><td align="center">R</td><td>(405) 557-7347</td><td>437</td><td>Sawyer Campbell*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__24">
+		<td>
+                            <a title="Click to view Member Frix, Avery's information page in a new window." href='District.aspx?District=13' target="_blank">
+                            Frix, Avery
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">13</td><td align="center">R</td><td>(405) 557-7302</td><td>438</td><td>Vicki Adams</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__25">
+		<td>
+                            <a title="Click to view Member Fugate, Andy's information page in a new window." href='District.aspx?District=94' target="_blank">
+                            Fugate, Andy
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">94</td><td align="center">D</td><td>(405) 557-7370</td><td>510B</td><td>Debra Pearson-Matthews*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__26">
+		<td>
+                            <a title="Click to view Member Gann, Tom's information page in a new window." href='District.aspx?District=8' target="_blank">
+                            Gann, Tom
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">8</td><td align="center">R</td><td>(405) 557-7364</td><td>434</td><td>Carla Ray</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__27">
+		<td>
+                            <a title="Click to view Member Goodwin, Regina's information page in a new window." href='District.aspx?District=73' target="_blank">
+                            Goodwin, Regina
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">73</td><td align="center">D</td><td>(405) 557-7406</td><td>508</td><td>Amari Kimbro</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__28">
+		<td>
+                            <a title="Click to view Member Grego, Jim's information page in a new window." href='District.aspx?District=17' target="_blank">
+                            Grego, Jim
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">17</td><td align="center">R</td><td>(405) 557-7381</td><td>501</td><td>Ashley Stuart*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__29">
+		<td>
+                            <a title="Click to view Member Hardin, David's information page in a new window." href='District.aspx?District=86' target="_blank">
+                            Hardin, David
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">86</td><td align="center">R</td><td>(405) 557-7394</td><td>502</td><td>Martha Perry*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__30">
+		<td>
+                            <a title="Click to view Member Hardin, Tommy's information page in a new window." href='District.aspx?District=49' target="_blank">
+                            Hardin, Tommy
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">49</td><td align="center">R</td><td>(405) 557-7383</td><td>336</td><td>Saprina Crostwait</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__31">
+		<td>
+                            <a title="Click to view Member Hasenbeck, Toni's information page in a new window." href='District.aspx?District=65' target="_blank">
+                            Hasenbeck, Toni
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">65</td><td align="center">R</td><td>(405) 557-7305</td><td>256</td><td>Julie Jackson</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__32">
+		<td>
+                            <a title="Click to view Member Hilbert, Kyle's information page in a new window." href='District.aspx?District=29' target="_blank">
+                            Hilbert, Kyle
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">29</td><td align="center">R</td><td>(405) 557-7353</td><td>244B</td><td>Sonya Barker</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__33">
+		<td>
+                            <a title="Click to view Member Hill, Brian's information page in a new window." href='District.aspx?District=47' target="_blank">
+                            Hill, Brian
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">47</td><td align="center">R</td><td>(405) 557-7333</td><td>400B</td><td>Dee Lemon*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__34">
+		<td>
+                            <a title="Click to view Member Humphrey, Justin's information page in a new window." href='District.aspx?District=19' target="_blank">
+                            Humphrey, Justin
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">19</td><td align="center">R</td><td>(405) 557-7382</td><td>301B</td><td>LaToya Alexander</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__35">
+		<td>
+                            <a title="Click to view Member Johns, Ronny's information page in a new window." href='District.aspx?District=25' target="_blank">
+                            Johns, Ronny
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">25</td><td align="center">R</td><td>(405) 557-7336</td><td>329A</td><td>Kaye Beach*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__36">
+		<td>
+                            <a title="Click to view Member Kannady, Chris's information page in a new window." href='District.aspx?District=91' target="_blank">
+                            Kannady, Chris
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">91</td><td align="center">R</td><td>(405) 557-7337</td><td>240</td><td>Zach Swift</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__37">
+		<td>
+                            <a title="Click to view Member Kerbs, Dell's information page in a new window." href='District.aspx?District=26' target="_blank">
+                            Kerbs, Dell
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">26</td><td align="center">R</td><td>(405) 557-7345</td><td>408</td><td>Joyce Butler</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__38">
+		<td>
+                            <a title="Click to view Member Kiger, Lundy's information page in a new window." href='District.aspx?District=3' target="_blank">
+                            Kiger, Lundy
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">3</td><td align="center">R</td><td>(405) 557-7413</td><td>405</td><td>Sawyer Campbell*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__39">
+		<td>
+                            <a title="Click to view Member Lawson, Mark's information page in a new window." href='District.aspx?District=30' target="_blank">
+                            Lawson, Mark
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">30</td><td align="center">R</td><td>(405) 557-7414</td><td>244A</td><td>Sonya Barker</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__40">
+		<td>
+                            <a title="Click to view Member Lepak, Mark's information page in a new window." href='District.aspx?District=9' target="_blank">
+                            Lepak, Mark
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">9</td><td align="center">R</td><td>(405) 557-7380</td><td>441</td><td>Charlotte Maughan</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__41">
+		<td>
+                            <a title="Click to view Member Loring, Ben's information page in a new window." href='District.aspx?District=7' target="_blank">
+                            Loring, Ben
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">7</td><td align="center">D</td><td>(405) 557-7399</td><td>503</td><td>Louise Aldridge</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__42">
+		<td>
+                            <a title="Click to view Member Lowe, Jason's information page in a new window." href='District.aspx?District=97' target="_blank">
+                            Lowe, Jason
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">97</td><td align="center">D</td><td>(405) 557-7367</td><td>507</td><td>Amari Kimbro*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__43">
+		<td>
+                            <a title="Click to view Member Luttrell, Ken's information page in a new window." href='District.aspx?District=37' target="_blank">
+                            Luttrell, Ken
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">37</td><td align="center">R</td><td>(405) 557-7355</td><td>410</td><td>Vicki Adams*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__44">
+		<td>
+                            <a title="Click to view Member Manger, Robert's information page in a new window." href='District.aspx?District=101' target="_blank">
+                            Manger, Robert
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">101</td><td align="center">R</td><td>(405) 557-7395</td><td>302B</td><td>Dee Lemon*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__45">
+		<td>
+                            <a title="Click to view Member Marti, T.J.'s information page in a new window." href='District.aspx?District=75' target="_blank">
+                            Marti, T.J.
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">75</td><td align="center">R</td><td>(405) 557-7356</td><td>301</td><td>Zach Swift*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__46">
+		<td>
+                            <a title="Click to view Member Martinez, Ryan's information page in a new window." href='District.aspx?District=39' target="_blank">
+                            Martinez, Ryan
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">39</td><td align="center">R</td><td>(405) 557-7342</td><td>246B</td><td>Stefne Miller</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__47">
+		<td>
+                            <a title="Click to view Member May, Stan's information page in a new window." href='District.aspx?District=80' target="_blank">
+                            May, Stan
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">80</td><td align="center">R</td><td>(405) 557-7338</td><td>331</td><td>Zack Swift*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__48">
+		<td>
+                            <a title="Click to view Member McBride, Mark's information page in a new window." href='District.aspx?District=53' target="_blank">
+                            McBride, Mark
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">53</td><td align="center">R</td><td>(405) 557-7346</td><td>433B</td><td>Julie Jackson</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__49">
+		<td>
+                            <a title="Click to view Member McCall, Charles's information page in a new window." href='District.aspx?District=22' target="_blank">
+                            McCall, Charles
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">22</td><td align="center">R</td><td>(405) 557-7412</td><td>401</td><td>Tonya Pogue</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__50">
+		<td>
+                            <a title="Click to view Member McDugle, Kevin's information page in a new window." href='District.aspx?District=12' target="_blank">
+                            McDugle, Kevin
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">12</td><td align="center">R</td><td>(405) 557-7388</td><td>242B</td><td>Tanner Davis</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__51">
+		<td>
+                            <a title="Click to view Member McEntire, Marcus's information page in a new window." href='District.aspx?District=50' target="_blank">
+                            McEntire, Marcus
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">50</td><td align="center">R</td><td>(405) 557-7327</td><td>204B</td><td>Jan Tupps</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__52">
+		<td>
+                            <a title="Click to view Member Meredith, Matt's information page in a new window." href='District.aspx?District=4' target="_blank">
+                            Meredith, Matt
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">4</td><td align="center">D</td><td>(405) 557-7408</td><td>541</td><td>Connie Riley</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__53">
+		<td>
+                            <a title="Click to view Member Miller, Nicole's information page in a new window." href='District.aspx?District=82' target="_blank">
+                            Miller, Nicole
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">82</td><td align="center">R</td><td>(405) 557-7357</td><td>300A</td><td>Charlotte Maughan*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__54">
+		<td>
+                            <a title="Click to view Member Mize, Garry's information page in a new window." href='District.aspx?District=31' target="_blank">
+                            Mize, Garry
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">31</td><td align="center">R</td><td>(405) 557-7350</td><td>300</td><td>Reed Powell*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__55">
+		<td>
+                            <a title="Click to view Member Moore, Lewis's information page in a new window." href='District.aspx?District=96' target="_blank">
+                            Moore, Lewis
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">96</td><td align="center">R</td><td>(405) 557-7400</td><td>328</td><td>Reed Powell</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__56">
+		<td>
+                            <a title="Click to view Member Munson, Cyndi's information page in a new window." href='District.aspx?District=85' target="_blank">
+                            Munson, Cyndi
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">85</td><td align="center">D</td><td>(405) 557-7392</td><td>546</td><td>Sarah Rivin</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__57">
+		<td>
+                            <a title="Click to view Member Newton, Carl's information page in a new window." href='District.aspx?District=58' target="_blank">
+                            Newton, Carl
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">58</td><td align="center">R</td><td>(405) 557-7339</td><td>332</td><td>Pat Timberlake</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__58">
+		<td>
+                            <a title="Click to view Member Nichols, Monroe's information page in a new window." href='District.aspx?District=72' target="_blank">
+                            Nichols, Monroe
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">72</td><td align="center">D</td><td>(405) 557-7391</td><td>505</td><td>Connie Riley*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__59">
+		<td>
+                            <a title="Click to view Member Nollan, Jadine's information page in a new window." href='District.aspx?District=66' target="_blank">
+                            Nollan, Jadine
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">66</td><td align="center">R</td><td>(405) 557-7390</td><td>407</td><td>Sandy Cunningham</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__60">
+		<td>
+                            <a title="Click to view Member O'Donnell, Terry's information page in a new window." href='District.aspx?District=23' target="_blank">
+                            O'Donnell, Terry
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">23</td><td align="center">R</td><td>(405) 557-7379</td><td>433</td><td>Kathy Hubbart</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__61">
+		<td>
+                            <a title="Click to view Member Olsen, Jim's information page in a new window." href='District.aspx?District=2' target="_blank">
+                            Olsen, Jim
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">2</td><td align="center">R</td><td>(405) 557-7315</td><td>329B</td><td>Martha Perry*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__62">
+		<td>
+                            <a title="Click to view Member Ortega, Charles's information page in a new window." href='District.aspx?District=52' target="_blank">
+                            Ortega, Charles
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">52</td><td align="center">R</td><td>(405) 557-7369</td><td>305A</td><td>Melanie Morriss</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__63">
+		<td>
+                            <a title="Click to view Member Osburn, Mike's information page in a new window." href='District.aspx?District=81' target="_blank">
+                            Osburn, Mike
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">81</td><td align="center">R</td><td>(405) 557-7360</td><td>246A</td><td>Stefne Miller</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__64">
+		<td>
+                            <a title="Click to view Member Pae, Daniel's information page in a new window." href='District.aspx?District=62' target="_blank">
+                            Pae, Daniel
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">62</td><td align="center">R</td><td>(405) 557-7374</td><td>500</td><td>Pat Timberlake*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__65">
+		<td>
+                            <a title="Click to view Member Patzkowsky, Kenton's information page in a new window." href='District.aspx?District=61' target="_blank">
+                            Patzkowsky, Kenton
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">61</td><td align="center">R</td><td>(405) 557-7384</td><td>500A</td><td>Elizabeth Smith*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__66">
+		<td>
+                            <a title="Click to view Member Perryman, David's information page in a new window." href='District.aspx?District=56' target="_blank">
+                            Perryman, David
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">56</td><td align="center">D</td><td>(405) 557-7401</td><td>540</td><td>Abigail Weigand</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__67">
+		<td>
+                            <a title="Click to view Member Pfeiffer, John's information page in a new window." href='District.aspx?District=38' target="_blank">
+                            Pfeiffer, John
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">38</td><td align="center">R</td><td>(405) 557-7332</td><td>439</td><td>Ashley Stuart</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__68">
+		<td>
+                            <a title="Click to view Member Phillips, Logan's information page in a new window." href='District.aspx?District=24' target="_blank">
+                            Phillips, Logan
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">24</td><td align="center">R</td><td>(405) 557-7306</td><td>335</td><td>Tanner Davis*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__69">
+		<td>
+                            <a title="Click to view Member Pittman, Ajay's information page in a new window." href='District.aspx?District=99' target="_blank">
+                            Pittman, Ajay
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">99</td><td align="center">D</td><td>(405) 557-7393</td><td>539</td><td>Amari Kimbro*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__70">
+		<td>
+                            <a title="Click to view Member Provenzano, Melissa's information page in a new window." href='District.aspx?District=79' target="_blank">
+                            Provenzano, Melissa
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">79</td><td align="center">D</td><td>(405) 557-7330</td><td>510A</td><td>Louise Aldridge*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__71">
+		<td>
+                            <a title="Click to view Member Randleman, Randy's information page in a new window." href='District.aspx?District=15' target="_blank">
+                            Randleman, Randy
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">15</td><td align="center">R</td><td>(405) 557-7375</td><td>302</td><td>Jordan Johnston*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__72">
+		<td>
+                            <a title="Click to view Member Ranson, Trish's information page in a new window." href='District.aspx?District=34' target="_blank">
+                            Ranson, Trish
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">34</td><td align="center">D</td><td>(405) 557-7411</td><td>506</td><td>Sarah Rivin*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__73">
+		<td>
+                            <a title="Click to view Member Roberts, Dustin's information page in a new window." href='District.aspx?District=21' target="_blank">
+                            Roberts, Dustin
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">21</td><td align="center">R</td><td>(405) 557-7366</td><td>440</td><td>Elizabeth Smith</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__74">
+		<td>
+                            <a title="Click to view Member Roberts, Sean's information page in a new window." href='District.aspx?District=36' target="_blank">
+                            Roberts, Sean
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">36</td><td align="center">R</td><td>(405) 557-7322</td><td>250</td><td>Lacy Skrapka</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__75">
+		<td>
+                            <a title="Click to view Member Roe, Cynthia's information page in a new window." href='District.aspx?District=42' target="_blank">
+                            Roe, Cynthia
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">42</td><td align="center">R</td><td>(405) 557-7365</td><td>338</td><td>Saprina Crostwait*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__76">
+		<td>
+                            <a title="Click to view Member Rosecrants, Jacob's information page in a new window." href='District.aspx?District=46' target="_blank">
+                            Rosecrants, Jacob
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">46</td><td align="center">D</td><td>(405) 557-7329</td><td>509</td><td>Amari Kimbro</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__77">
+		<td>
+                            <a title="Click to view Member Russ, Todd's information page in a new window." href='District.aspx?District=55' target="_blank">
+                            Russ, Todd
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">55</td><td align="center">R</td><td>(405) 557-7312</td><td>406</td><td>Jordan Johnston</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__78">
+		<td>
+                            <a title="Click to view Member Sanders, Mike's information page in a new window." href='District.aspx?District=59' target="_blank">
+                            Sanders, Mike
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">59</td><td align="center">R</td><td>(405) 557-7407</td><td>205</td><td>Natasha Holliday</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__79">
+		<td>
+                            <a title="Click to view Member Sims, Lonnie's information page in a new window." href='District.aspx?District=68' target="_blank">
+                            Sims, Lonnie
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">68</td><td align="center">R</td><td>(405) 557-7340</td><td>436</td><td>Jan Tupps*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__80">
+		<td>
+                            <a title="Click to view Member Smith, David's information page in a new window." href='District.aspx?District=18' target="_blank">
+                            Smith, David
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">18</td><td align="center">R</td><td>(405) 557-7376</td><td>250A</td><td>Lacy Skrapka*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__81">
+		<td>
+                            <a title="Click to view Member Sneed, Chris's information page in a new window." href='District.aspx?District=14' target="_blank">
+                            Sneed, Chris
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">14</td><td align="center">R</td><td>(405) 557-7310</td><td>300C</td><td>Carla Ray*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__82">
+		<td>
+                            <a title="Click to view Member Stark, Marilyn's information page in a new window." href='District.aspx?District=100' target="_blank">
+                            Stark, Marilyn
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">100</td><td align="center">R</td><td>(405) 557-7403</td><td>338</td><td>Carla Ray*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__83">
+		<td>
+                            <a title="Click to view Member Steagall, Jay's information page in a new window." href='District.aspx?District=43' target="_blank">
+                            Steagall, Jay
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">43</td><td align="center">R</td><td>(405) 557-7352</td><td>301A</td><td>Melanie Morriss*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__84">
+		<td>
+                            <a title="Click to view Member Sterling, Danny's information page in a new window." href='District.aspx?District=27' target="_blank">
+                            Sterling, Danny
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">27</td><td align="center">R</td><td>(405) 557-7349</td><td>328B</td><td>Joyce Butler*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__85">
+		<td>
+                            <a title="Click to view Member Stone, Shane's information page in a new window." href='District.aspx?District=89' target="_blank">
+                            Stone, Shane
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">89</td><td align="center">D</td><td>(405) 557-7397</td><td>545</td><td>Sarah Rivin</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__86">
+		<td>
+                            <a title="Click to view Member Strom, Judd's information page in a new window." href='District.aspx?District=10' target="_blank">
+                            Strom, Judd
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">10</td><td align="center">R</td><td>(405) 557-7402</td><td>435</td><td>Natasha Holliday*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__87">
+		<td>
+                            <a title="Click to view Member Tadlock, Johnny's information page in a new window." href='District.aspx?District=1' target="_blank">
+                            Tadlock, Johnny
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">1</td><td align="center">R</td><td>(405) 557-7363</td><td>409</td><td>Leslie Smith-Haddad</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__88">
+		<td>
+                            <a title="Click to view Member Talley, John's information page in a new window." href='District.aspx?District=33' target="_blank">
+                            Talley, John
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">33</td><td align="center">R</td><td>(405) 557-7304</td><td>300B</td><td>Kathy Hubbart*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__89">
+		<td>
+                            <a title="Click to view Member Taylor, Zack's information page in a new window." href='District.aspx?District=28' target="_blank">
+                            Taylor, Zack
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">28</td><td align="center">R</td><td>(405) 557-7372</td><td>435A</td><td>Martha Perry</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__90">
+		<td>
+                            <a title="Click to view Member Townley, Tammy's information page in a new window." href='District.aspx?District=48' target="_blank">
+                            Townley, Tammy
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">48</td><td align="center">R</td><td>(405) 557-7326</td><td>303A</td><td>Sonya Barker*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__91">
+		<td>
+                            <a title="Click to view Member Vancuren, Mark's information page in a new window." href='District.aspx?District=74' target="_blank">
+                            Vancuren, Mark
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">74</td><td align="center">R</td><td>(405) 557-7377</td><td>328A</td><td>Natasha Holliday*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__92">
+		<td>
+                            <a title="Click to view Member Virgin, Emily's information page in a new window." href='District.aspx?District=44' target="_blank">
+                            Virgin, Emily
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">44</td><td align="center">D</td><td>(405) 557-7323</td><td>548</td><td>Debra Pearson-Matthews</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__93">
+		<td>
+                            <a title="Click to view Member Waldron, John's information page in a new window." href='District.aspx?District=77' target="_blank">
+                            Waldron, John
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">77</td><td align="center">D</td><td>(405) 557-7410</td><td>510A</td><td>Abigail Weigand*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__94">
+		<td>
+                            <a title="Click to view Member Walke, Collin's information page in a new window." href='District.aspx?District=87' target="_blank">
+                            Walke, Collin
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">87</td><td align="center">D</td><td>(405) 557-7335</td><td>504</td><td>Louise Aldridge*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__95">
+		<td>
+                            <a title="Click to view Member Wallace, Kevin's information page in a new window." href='District.aspx?District=32' target="_blank">
+                            Wallace, Kevin
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">32</td><td align="center">R</td><td>(405) 557-7368</td><td>200B</td><td>Tammie Wright</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__96">
+		<td>
+                            <a title="Click to view Member West, Josh's information page in a new window." href='District.aspx?District=5' target="_blank">
+                            West, Josh
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">5</td><td align="center">R</td><td>(405) 557-7415</td><td>242A</td><td>Tanner Davis</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__97">
+		<td>
+                            <a title="Click to view Member West, Kevin's information page in a new window." href='District.aspx?District=54' target="_blank">
+                            West, Kevin
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">54</td><td align="center">R</td><td>(405) 557-7343</td><td>333</td><td>Marlene Burbank-Jones</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__98">
+		<td>
+                            <a title="Click to view Member West, Tammy's information page in a new window." href='District.aspx?District=84' target="_blank">
+                            West, Tammy
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">84</td><td align="center">R</td><td>(405) 557-7348</td><td>202B</td><td>Julie Jackson</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__99">
+		<td>
+                            <a title="Click to view Member Worthen, Rande's information page in a new window." href='District.aspx?District=64' target="_blank">
+                            Worthen, Rande
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">64</td><td align="center">R</td><td>(405) 557-7398</td><td>302A</td><td>Glenda Mollman*</td>
+	</tr><tr id="ctl00_ContentPlaceHolder1_RadGrid1_ctl00__100">
+		<td>
+                            <a title="Click to view Member Wright, Harold's information page in a new window." href='District.aspx?District=57' target="_blank">
+                            Wright, Harold
+                            </a>
+                        </td><td align="center" style="mso-number-format:0;">57</td><td align="center">R</td><td>(405) 557-7325</td><td>411</td><td>Dee Lemon</td>
+	</tr>
+	</tbody>
+
+</table>	</div>
+</body></html>
